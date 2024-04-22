@@ -1,0 +1,19 @@
+#container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+}
+
+#input, #movieList {
+    background-color: lightpink;
+    padding: 10px;
+}
+
+button {
+    background-color: lightgrey;
+    color: black;
+    margin: 5px;
+    padding: 5px 10px;
+    border: none;
+}
+
